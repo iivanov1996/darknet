@@ -1,0 +1,6 @@
+classes= 2
+train = /ceph/grid/home/iivanov/dais_complete_data/train_dais.txt
+valid = /ceph/grid/home/iivanov/dais_complete_data/val.txt
+names = /ceph/grid/home/iivanov/dais_complete_data/obj.names
+backup = /ceph/grid/home/iivanov/my_image_darknet/darknet/dais_10k_spp_3-5-7/backup
+
